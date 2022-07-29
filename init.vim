@@ -28,7 +28,6 @@ call plug#end()
   nnoremap <C-l> :call CocActionAsync('jumpDefinition')<CR>
   nnoremap <C-p> :Telescope find_files<CR>
   nnoremap <C-s> :w <CR>
-  nnoremap <C-s> :w <CR>
   nnoremap <C-q> :wq <CR>
   inoremap jk  <ESC> 
   inoremap kj  <ESC> 
